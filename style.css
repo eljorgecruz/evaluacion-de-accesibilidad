@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;800&family=Onest:wght@800;900&family=Roboto+Mono:ital,wght@0,700;1,400&display=swap');
+
+h1 {
+  color: white; /* Establece el color del texto en blanco */
+  background-color: black;
+}
+
+a {
+  font-family: 'Onest', sans-serif;
+  font-size: 24px;
+}
+.margen-interno {
+  padding: 20px;
+}
+
+.margen-texto {
+  margin: 20px;
+}
+
+.margen-cartas {
+  margin: 40px;
+}
+
+.margen-form {
+  margin: 40px;
+}
+
+.titulo {
+  min-height: 50vh;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: 'Roboto Mono', sans-serif;;
+}
+p {
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+}
+ul {
+  font-family: 'Onest', sans-serif;
+  margin-left: 20px;
+  font-size: 20px;
+}
+li {
+  margin-bottom: 10px;
+}
+b {
+  font-size: 22px;
+}
